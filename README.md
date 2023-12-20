@@ -1,3 +1,5 @@
+[screen-capture (2).webm](https://github.com/AlekseiIvanovI/tattoo_Salon/assets/149438366/9068fbbf-55c0-4446-961c-2e5f5655a6eb)
+
 # Tattoo Salon Website
 
 This repository contains the source code and assets for a tattoo salon website. The website showcases the services, artists, and portfolio of the tattoo salon, providing information and a platform for potential clients to explore and book appointments.
